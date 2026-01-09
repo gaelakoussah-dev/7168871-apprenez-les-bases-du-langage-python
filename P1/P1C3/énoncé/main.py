@@ -1,2 +1,2 @@
-print("J'apprends Pyhton!")
-print(17+35*2)
+print("J'apprends Pyhton !")
+print(17 + 35 * 2)
